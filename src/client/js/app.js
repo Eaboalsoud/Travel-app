@@ -1,6 +1,6 @@
 
 /* Global Variables */
-import { inputCheck } from "./checkInput";
+
 const user = "eaboalsoud";
 const geoNamesURL = "http://api.geonames.org/searchJSON?name=" + city + "&maxRows=1&username=" + user
 
